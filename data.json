@@ -3,7 +3,7 @@
     "name": "Jacob Jameson",
     "username": "jacobjameson",
     "location": "Cambridge, MA",
-    "lastSync": "2025-12-18T16:06:28.890Z"
+    "lastSync": "2025-12-18T18:31:23.215Z"
   },
   "observations": [
     {
@@ -40,7 +40,14 @@
       "common": "Tufted Titmouse",
       "location": "5155 Shady Oak Ln, Warrenton US-VA 38.75733, -77.71791",
       "region": "US-VA"
+    },
+    {
+      "date": "2025-12-18",
+      "sciName": "Colaptes auratus",
+      "common": "Northern Flicker",
+      "location": "5503 E Marina Ct, Post Falls US-ID 47.70105, -116.87441",
+      "region": "US-ID"
     }
   ],
-  "exportedAt": "2025-12-18T16:06:28.890Z"
+  "exportedAt": "2025-12-18T18:31:23.215Z"
 }
