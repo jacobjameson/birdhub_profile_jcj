@@ -1,0 +1,54 @@
+name: Sync eBird Life List
+
+on:
+  schedule:
+    - cron: '0 7 * * *'  # Daily at 7am UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check for credentials
+        id: check-creds
+        run: |
+          if [ -z "${{ secrets.EBIRD_USERNAME }}" ] || [ -z "${{ secrets.EBIRD_PASSWORD }}" ]; then
+            echo "⏭️ eBird credentials not configured yet. Skipping sync."
+            echo "To enable: Add EBIRD_USERNAME and EBIRD_PASSWORD in Settings → Secrets → Actions"
+            echo "skip=true" >> $GITHUB_OUTPUT
+          else
+            echo "skip=false" >> $GITHUB_OUTPUT
+          fi
+      
+      - uses: actions/checkout@v4
+        if: steps.check-creds.outputs.skip != 'true'
+      
+      - uses: actions/setup-node@v4
+        if: steps.check-creds.outputs.skip != 'true'
+        with:
+          node-version: '20'
+      
+      - name: Install Playwright
+        if: steps.check-creds.outputs.skip != 'true'
+        run: |
+          npm install playwright
+          npx playwright install chromium
+      
+      - name: Fetch eBird data
+        if: steps.check-creds.outputs.skip != 'true'
+        env:
+          EBIRD_USERNAME: ${{ secrets.EBIRD_USERNAME }}
+          EBIRD_PASSWORD: ${{ secrets.EBIRD_PASSWORD }}
+        run: node fetch-ebird.js
+      
+      - name: Commit changes
+        if: steps.check-creds.outputs.skip != 'true'
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add data.json
+          git diff --staged --quiet || git commit -m "🐦 Sync eBird data"
+          git push
