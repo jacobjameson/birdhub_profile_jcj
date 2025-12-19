@@ -3,7 +3,7 @@
     "name": "Jacob Jameson",
     "username": "jacobjameson",
     "location": "Cambridge, MA",
-    "lastSync": "2025-12-19T07:04:50.424Z"
+    "lastSync": "2025-12-19T17:49:26.905Z"
   },
   "observations": [
     {
@@ -47,7 +47,35 @@
       "common": "Northern Flicker",
       "location": "5503 E Marina Ct, Post Falls US-ID 47.70105, -116.87441",
       "region": "US-ID"
+    },
+    {
+      "date": "2025-12-19",
+      "sciName": "Junco hyemalis",
+      "common": "Dark-eyed Junco",
+      "location": "5503 E Marina Ct, Post Falls US-ID 47.70105, -116.87441",
+      "region": "US-ID"
+    },
+    {
+      "date": "2025-12-19",
+      "sciName": "Turdus migratorius",
+      "common": "American Robin",
+      "location": "5503 E Marina Ct, Post Falls US-ID 47.70105, -116.87441",
+      "region": "US-ID"
+    },
+    {
+      "date": "2025-12-19",
+      "sciName": "Sitta pygmaea",
+      "common": "Pygmy Nuthatch",
+      "location": "5503 E Marina Ct, Post Falls US-ID 47.70105, -116.87441",
+      "region": "US-ID"
+    },
+    {
+      "date": "2025-12-19",
+      "sciName": "Corvus brachyrhynchos",
+      "common": "American Crow",
+      "location": "5503 E Marina Ct, Post Falls US-ID 47.70105, -116.87441",
+      "region": "US-ID"
     }
   ],
-  "exportedAt": "2025-12-19T07:04:50.424Z"
+  "exportedAt": "2025-12-19T17:49:26.905Z"
 }
