@@ -3,7 +3,7 @@
     "name": "Jacob Jameson",
     "username": "jacobjameson",
     "location": "Cambridge, MA",
-    "lastSync": "2025-12-20T19:21:53.431Z"
+    "lastSync": "2025-12-20T19:23:03.329Z"
   },
   "observations": [
     {
@@ -75,7 +75,14 @@
       "common": "American Crow",
       "location": "5503 E Marina Ct, Post Falls US-ID 47.70105, -116.87441",
       "region": "US-ID"
+    },
+    {
+      "date": "2025-12-20",
+      "sciName": "Poecile gambeli",
+      "common": "Mountain Chickadee",
+      "location": "103 S Harbor Park Ct, Post Falls US-ID (47.7032,-116.8782)",
+      "region": "US-ID"
     }
   ],
-  "exportedAt": "2025-12-20T19:21:53.432Z"
+  "exportedAt": "2025-12-20T19:23:03.330Z"
 }
