@@ -3,7 +3,7 @@
     "name": "Jacob Jameson",
     "username": "jacobjameson",
     "location": "Cambridge, MA",
-    "lastSync": "2025-12-22T07:06:05.798Z"
+    "lastSync": "2025-12-23T07:05:56.061Z"
   },
   "observations": [
     {
@@ -82,7 +82,14 @@
       "common": "Mountain Chickadee",
       "location": "103 S Harbor Park Ct, Post Falls US-ID (47.7032,-116.8782)",
       "region": "US-ID"
+    },
+    {
+      "date": "2025-12-22",
+      "sciName": "Cathartes aura",
+      "common": "Turkey Vulture",
+      "location": "3947 Gardenia Pl, Oakland US-CA 37.77794, -122.17061",
+      "region": "US-CA"
     }
   ],
-  "exportedAt": "2025-12-22T07:06:05.798Z"
+  "exportedAt": "2025-12-23T07:05:56.061Z"
 }
