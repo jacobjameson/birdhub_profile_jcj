@@ -3,7 +3,7 @@
     "name": "Jacob Jameson",
     "username": "jacobjameson",
     "location": "Cambridge, MA",
-    "lastSync": "2025-12-24T07:05:55.693Z"
+    "lastSync": "2025-12-25T07:05:19.380Z"
   },
   "observations": [
     {
@@ -89,7 +89,126 @@
       "common": "Turkey Vulture",
       "location": "3947 Gardenia Pl, Oakland US-CA 37.77794, -122.17061",
       "region": "US-CA"
+    },
+    {
+      "date": "2025-12-24",
+      "sciName": "Melospiza melodia",
+      "common": "Song Sparrow",
+      "location": "Eastshore Park, Oakland US-CA 37.80966, -122.24750",
+      "region": "US-CA"
+    },
+    {
+      "date": "2025-12-24",
+      "sciName": "Buteo jamaicensis",
+      "common": "Red-tailed Hawk",
+      "location": "Eastshore Park, Oakland US-CA 37.80966, -122.24750",
+      "region": "US-CA"
+    },
+    {
+      "date": "2025-12-24",
+      "sciName": "Pelecanus occidentalis",
+      "common": "Brown Pelican",
+      "location": "Eastshore Park, Oakland US-CA 37.80966, -122.24750",
+      "region": "US-CA"
+    },
+    {
+      "date": "2025-12-24",
+      "sciName": "Pelecanus erythrorhynchos",
+      "common": "American White Pelican",
+      "location": "Eastshore Park, Oakland US-CA 37.80966, -122.24750",
+      "region": "US-CA"
+    },
+    {
+      "date": "2025-12-24",
+      "sciName": "Ardea alba",
+      "common": "Great Egret",
+      "location": "Eastshore Park, Oakland US-CA 37.80966, -122.24750",
+      "region": "US-CA"
+    },
+    {
+      "date": "2025-12-24",
+      "sciName": "Nycticorax nycticorax",
+      "common": "Black-crowned Night Heron",
+      "location": "Eastshore Park, Oakland US-CA 37.80966, -122.24750",
+      "region": "US-CA"
+    },
+    {
+      "date": "2025-12-24",
+      "sciName": "Nannopterum auritum",
+      "common": "Double-crested Cormorant",
+      "location": "Eastshore Park, Oakland US-CA 37.80966, -122.24750",
+      "region": "US-CA"
+    },
+    {
+      "date": "2025-12-24",
+      "sciName": "Larus californicus",
+      "common": "California Gull",
+      "location": "Eastshore Park, Oakland US-CA 37.80966, -122.24750",
+      "region": "US-CA"
+    },
+    {
+      "date": "2025-12-24",
+      "sciName": "Fulica americana",
+      "common": "American Coot",
+      "location": "Eastshore Park, Oakland US-CA 37.80966, -122.24750",
+      "region": "US-CA"
+    },
+    {
+      "date": "2025-12-24",
+      "sciName": "Columba livia",
+      "common": "Rock Pigeon",
+      "location": "Eastshore Park, Oakland US-CA 37.80966, -122.24750",
+      "region": "US-CA"
+    },
+    {
+      "date": "2025-12-24",
+      "sciName": "Oxyura jamaicensis",
+      "common": "Ruddy Duck",
+      "location": "Eastshore Park, Oakland US-CA 37.80966, -122.24750",
+      "region": "US-CA"
+    },
+    {
+      "date": "2025-12-24",
+      "sciName": "Bucephala albeola",
+      "common": "Bufflehead",
+      "location": "Eastshore Park, Oakland US-CA 37.80966, -122.24750",
+      "region": "US-CA"
+    },
+    {
+      "date": "2025-12-24",
+      "sciName": "Aythya marila",
+      "common": "Greater Scaup",
+      "location": "Eastshore Park, Oakland US-CA 37.80966, -122.24750",
+      "region": "US-CA"
+    },
+    {
+      "date": "2025-12-24",
+      "sciName": "Anas platyrhynchos",
+      "common": "Mallard",
+      "location": "Eastshore Park, Oakland US-CA 37.80966, -122.24750",
+      "region": "US-CA"
+    },
+    {
+      "date": "2025-12-24",
+      "sciName": "Branta canadensis",
+      "common": "Canada Goose",
+      "location": "Eastshore Park, Oakland US-CA 37.80966, -122.24750",
+      "region": "US-CA"
+    },
+    {
+      "date": "2025-12-24",
+      "sciName": "Anser sp. (Domestic type) x Branta canadensis",
+      "common": "Domestic goose sp. x Canada Goose (hybrid)",
+      "location": "Eastshore Park, Oakland US-CA 37.80966, -122.24750",
+      "region": "US-CA"
+    },
+    {
+      "date": "2025-12-24",
+      "sciName": "Anser sp. (Domestic type)",
+      "common": "Domestic goose sp. (Domestic type)",
+      "location": "Eastshore Park, Oakland US-CA 37.80966, -122.24750",
+      "region": "US-CA"
     }
   ],
-  "exportedAt": "2025-12-24T07:05:55.693Z"
+  "exportedAt": "2025-12-25T07:05:19.381Z"
 }
