@@ -3,7 +3,7 @@
     "name": "Jacob Jameson",
     "username": "jacobjameson",
     "location": "Cambridge, MA",
-    "lastSync": "2025-12-26T07:05:12.564Z"
+    "lastSync": "2025-12-27T07:04:15.960Z"
   },
   "observations": [
     {
@@ -208,7 +208,21 @@
       "common": "Domestic goose sp. (Domestic type)",
       "location": "Eastshore Park, Oakland US-CA 37.80966, -122.24750",
       "region": "US-CA"
+    },
+    {
+      "date": "2025-12-26",
+      "sciName": "Ardea herodias",
+      "common": "Great Blue Heron",
+      "location": "2305–2371 Lakeshore Ave, Oakland US-CA 37.80681, -122.24997",
+      "region": "US-CA"
+    },
+    {
+      "date": "2025-12-26",
+      "sciName": "Egretta thula",
+      "common": "Snowy Egret",
+      "location": "2305–2371 Lakeshore Ave, Oakland US-CA 37.80681, -122.24997",
+      "region": "US-CA"
     }
   ],
-  "exportedAt": "2025-12-26T07:05:12.564Z"
+  "exportedAt": "2025-12-27T07:04:15.960Z"
 }
