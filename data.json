@@ -3,7 +3,7 @@
     "name": "Jacob Jameson",
     "username": "jacobjameson",
     "location": "Cambridge, MA",
-    "lastSync": "2026-01-18T07:04:13.332Z"
+    "lastSync": "2026-01-19T07:09:44.001Z"
   },
   "observations": [
     {
@@ -222,7 +222,21 @@
       "common": "Snowy Egret",
       "location": "2305–2371 Lakeshore Ave, Oakland US-CA 37.80681, -122.24997",
       "region": "US-CA"
+    },
+    {
+      "date": "2026-01-18",
+      "sciName": "Cardinalis cardinalis",
+      "common": "Northern Cardinal",
+      "location": "Minuteman Bikeway, Cambridge US-MA 42.39736, -71.14345",
+      "region": "US-MA"
+    },
+    {
+      "date": "2026-01-18",
+      "sciName": "Zenaida macroura",
+      "common": "Mourning Dove",
+      "location": "Minuteman Bikeway, Cambridge US-MA 42.39736, -71.14345",
+      "region": "US-MA"
     }
   ],
-  "exportedAt": "2026-01-18T07:04:13.332Z"
+  "exportedAt": "2026-01-19T07:09:44.001Z"
 }
